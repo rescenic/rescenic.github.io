@@ -1,0 +1,34 @@
+{
+  "name": "xhmkikosr.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The files for xhmikosr.io",
+  "homepage": "https://xhmikosr.io/",
+  "author": "XhmikosR",
+  "license": "MIT",
+  "scripts": {
+    "build": "grunt build",
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "@lodder/grunt-postcss": "^2.0.4",
+    "autoprefixer": "^9.8.0",
+    "grunt": "^1.1.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^2.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-html": "^14.1.0",
+    "grunt-postcss": "^0.9.0",
+    "grunt-purgecss": "^2.2.0",
+    "grunt-static-inline": "^2.0.0",
+    "load-grunt-tasks": "^5.1.0",
+    "postcss-combine-duplicated-selectors": "^8.1.0",
+    "time-grunt": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
