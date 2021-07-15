@@ -18,31 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Purelog: for Writers"
-email: mail@brennanbrown.ca
+title: "Rescenic's Journal"
+email: rescenin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A responsive sidebar Jekyll theme using the Pure.css framework, 
-  designed for writers and bloggers of all kinds.
+  Fas est ab hoste doceri. One should learn even from one's enemies.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://purelog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
-repository: brennanbrown/purelog
-twitter: brennankbrown
-github: brennanbrown
+url: "https://rescenic.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+repository: rescenic/rescenic.github.io
+twitter: rescenic
+github: rescenic
 
-header_image: assets/profile.png
+header_image: assets/whitekingrounded.png
 
 google_analytics:
 comments: true
 disqus: purelog-jekyll
 
-author: Brennan K. Brown
+author: Muhammad Ridwan Hakim, S.T.
 author_bio: >-
-  Hey there! 😄 My name is Brennan, I'm a 25-year-old Métis web developer and 
-  content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
-  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU, 
-  and I'm looking to help those that need web development work done, or 
-  searching for ideas and management for their next content project.
-author_pic: https://brennanbrown.ca/img/avatar.png
+  I am a philosophy of my life, being prey by black hole in my soul, saved by your presence.
+author_pic: assets/whitekingrounded.png
 paginate: 4
 paginate_path: "/:num/"
 
@@ -66,8 +61,8 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: Brennan K. Brown
-      avatar: assets/profile-sm.png
+      author: Muhammad Ridwan Hakim, S.T.
+      avatar: assets/whitekingrounded.png
   - scope:
       path: ""
       type: notes
