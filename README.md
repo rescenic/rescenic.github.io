@@ -94,7 +94,7 @@ git clone https://github.com/rescenic/rescenic.github.io.git
 4. Change into your new directory.
 
 ```
-cd purelog
+cd rescenic.github.io
 ```
 
 5. Install gems from the `Gemfile`.
