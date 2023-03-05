@@ -37,7 +37,7 @@ disqus: purelog-jekyll
 author: Muhammad Ridwan Hakim, S.T.
 author_bio: >-
     I am a philosophy of my life, being prey by black hole in my soul, saved by your presence.
-author_pic: assets/rescenic-rounded.png
+author_pic: /assets/rescenic-rounded.png
 paginate: 4
 paginate_path: "/:num/"
 

@@ -1,5 +1,7 @@
 ---
-tags: project programming
+tags: 
+  - Programming
+category: Essays
 ---
 
 To improve as a programmer, every programmer whether working independently or in an organization should atleast have one project that they control 100% of, and it doesn't matter if it is your main project or a side project. When you are working for an organization or working independently on a collaborative oss, the major chunk of your cognitive bandwidth gets allocated to those projects, which is not bad per-se, it does teach you how to work in a collaborative environment and to learn from people who are better at the concerned technology/concept than you. But the issue is more personal and emotional in when you are working on something bigger than you, it unwittingly causes a self-effacive effect i.e., you tend to devalue the emotional effects of being able to create something with complete autonomy, or crave for the autonomy and burnout as a result of the cognitive exhaustion. The sense of freedom and the liberating experience that comes out of the creative autonomy is just unmatched.
@@ -12,4 +14,4 @@ Related: [Creativity is a quality without a name](https://raghu.cc/posts/creativ
 
 ## References
 
-Andreas Kling. (2019). [Commute Talk: How to improve as a programmer](https://youtu.be/DY3Islql6xs)_
+Andreas Kling. (2019). [Commute Talk: How to improve as a programmer](https://youtu.be/DY3Islql6xs)
