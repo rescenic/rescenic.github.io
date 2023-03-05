@@ -21,14 +21,14 @@
 title: "Rescenic's Journal"
 email: rescenin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Fas est ab hoste doceri. One should learn even from one's enemies.
+    Übung macht den Meister (Practice makes perfect)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rescenic.my.id" # the base hostname & protocol for your site, e.g. http://example.com
 repository: rescenic/rescenic.github.io
 twitter: rescenic
 github: rescenic
 
-header_image: assets/whitekingrounded.png
+header_image: assets/rescenic-rounded.png
 
 google_analytics:
 comments: true
@@ -37,7 +37,7 @@ disqus: purelog-jekyll
 author: Muhammad Ridwan Hakim, S.T.
 author_bio: >-
     I am a philosophy of my life, being prey by black hole in my soul, saved by your presence.
-author_pic: assets/whitekingrounded.png
+author_pic: assets/rescenic-rounded.png
 paginate: 4
 paginate_path: "/:num/"
 
@@ -62,7 +62,7 @@ defaults:
       values:
           layout: "post"
           author: Muhammad Ridwan Hakim, S.T.
-          avatar: assets/whitekingrounded.png
+          avatar: assets/rescenic-rounded.png
     - scope:
           path: ""
           type: notes

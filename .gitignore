@@ -1,6 +1,18 @@
+# Jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 
+# macOS
 .DS_Store
+
+# Archives
+.archives
+
+# Bundler
+.bundle/
+vendor/
+
+# NPM
+node_modules/
