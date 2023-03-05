@@ -8,7 +8,7 @@ _site/
 .DS_Store
 
 # Archives
-.archives
+# .archives
 
 # Bundler
 .bundle/
