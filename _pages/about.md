@@ -11,7 +11,7 @@ permalink: /about/
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rescenic&label=Profile%20views&color=0e75b6&style=flat" alt="rescenic" /> </p>
 
 <div align="center">
-<a href="https://app.daily.dev/rescenic"><img src="https://github.com/rescenic/rescenic/blob/master/devcard.svg" width="400" alt="Muhammad Ridwan Hakim's Dev Card"/></a>
+<a href="https://app.daily.dev/rescenic"><img src="https://raw.githubusercontent.com/rescenic/rescenic/master/devcard.svg" width="300" alt="Muhammad Ridwan Hakim's Dev Card"/></a>
 </div>
 
 
@@ -19,16 +19,16 @@ permalink: /about/
 
 <div align="center">
   <a href="https://github.com/rescenic">
-  <img height="180em" src="https://rescenic-stats.vercel.app/api?username=rescenic&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://rescenic-stats.vercel.app/api/top-langs/?username=rescenic&layout=compact&langs_count=7&theme=gruvbox"/>
-  <img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=rescenic&theme=gruvbox"/>
+  <img height="140em" src="https://rescenic-stats.vercel.app/api?username=rescenic&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://rescenic-stats.vercel.app/api/top-langs/?username=rescenic&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="200em" src="https://github-readme-activity-graph.cyclic.app/graph?username=rescenic&theme=gruvbox"/>
 <!--   <img height="295em" src="https://github-readme-activity-graph.rescenic.repl.co/graph?username=rescenic&theme=gruvbox"/> -->
 </a></div> 
 
 ---
 -   🔭 I’m currently working on **secrets**.
 
--   🌱 I’m currently learning **microservices, docker, kubernetes, python, nodejs, react, flutter, kotlin, ruby, golang**.
+-   🌱 I’m currently learning **secrets**.
 
 -   👯 I’m looking to collaborate on **azure, aws, terraform, oracle cloud**.
 
