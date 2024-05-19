@@ -19,9 +19,10 @@ permalink: /about/
 
 <div align="center">
   <a href="https://github.com/rescenic">
+  <p align="center"><img src="https://raw.githubusercontent.com/rescenic/rescenic/master/github-metrics.svg" alt="Metrics" width="400"></p>
   <img height="140em" src="https://rescenic-stats.vercel.app/api?username=rescenic&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://rescenic-stats.vercel.app/api/top-langs/?username=rescenic&layout=compact&langs_count=7&theme=gruvbox"/>
-  <img height="200em" src="https://github-readme-activity-graph.cyclic.app/graph?username=rescenic&theme=gruvbox"/>
+  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=rescenic&theme=gruvbox"/>
 <!--   <img height="295em" src="https://github-readme-activity-graph.rescenic.repl.co/graph?username=rescenic&theme=gruvbox"/> -->
 </a></div> 
 
