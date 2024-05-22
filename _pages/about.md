@@ -8,74 +8,164 @@ permalink: /about/
 <h3 align="center">DevOps Engineer</h3>
 <h4 align="center">Translator of SumatraPDF, Total Commander, FeedDemon, Athan, Listary, RapidEE, AllMyNotes Organizer, CintaNotes, DropIt, Popcorn Time, FocusWriter, Disqus, AdBlock, etc.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rescenic&label=Profile%20views&color=0e75b6&style=flat" alt="rescenic" /> </p>
+<p align='center'>
+  <a href="https://github.com/sponsors/rescenic" target="_blank">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=rescenic&label=Profile%20views&color=0e75b6&style=flat" alt="rescenic" />
+  </a>
+</p>
 
 <div align="center">
-<a href="https://app.daily.dev/rescenic"><img src="https://raw.githubusercontent.com/rescenic/rescenic/master/devcard.svg" width="300" alt="Muhammad Ridwan Hakim's Dev Card"/></a>
+<a href="https://app.daily.dev/rescenic" target="_blank"><img src="https://raw.githubusercontent.com/rescenic/rescenic/master/devcard.png" width="600" alt="Muhammad Ridwan Hakim's Dev Card"/></a>
 </div>
 
-
-### **~:> My GitHub Stats**
+### **~:> GitHub Stats**
 
 <div align="center">
-  <a href="https://github.com/rescenic">
-  <p align="center"><img src="https://raw.githubusercontent.com/rescenic/rescenic/master/github-metrics.svg" alt="Metrics" width="400"></p>
-  <img height="140em" src="https://rescenic-stats.vercel.app/api?username=rescenic&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://rescenic-stats.vercel.app/api/top-langs/?username=rescenic&layout=compact&langs_count=7&theme=gruvbox"/>
-  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=rescenic&theme=gruvbox"/>
-<!--   <img height="295em" src="https://github-readme-activity-graph.rescenic.repl.co/graph?username=rescenic&theme=gruvbox"/> -->
-</a></div> 
+  <a href="https://github.com/rescenic" target="_blank">
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/github-metrics.svg" alt="Metrics" width="400">
+    </p>
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <img height="160em" src="https://rescenic-stats.vercel.app/api?username=rescenic&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+      <img height="160em" src="https://rescenic-stats.vercel.app/api/top-langs/?username=rescenic&layout=compact&langs_count=7&theme=gruvbox"/>
+    </div>
+    <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=rescenic&theme=gruvbox"/>
+  </a>
+</div>
 
 ---
--   🔭 I’m currently working on **secrets**.
 
--   🌱 I’m currently learning **secrets**.
+### **~:> Tech Stack**
 
--   👯 I’m looking to collaborate on **azure, aws, terraform, oracle cloud**.
+- #### 📊 Analytics & Metrics
 
--   🤝 I’m looking for help with **fundraising**.
+  ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-333333?style=flat&logo=google%20analytics)
+  ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+  ![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana)
+  ![WakaTime](https://img.shields.io/badge/-WakaTime-333333?style=flat&logo=wakatime)
 
--   👨‍💻 All of my projects are available at **[https://git.io/rescenic](https://git.io/rescenic).**
+- #### 🚀 Frameworks & Libraries
 
--   📝 I regularly write articles on **[https://rescenic.my.id](https://rescenic.my.id).**
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=spring)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
+  ![Jekyll](https://img.shields.io/badge/-Jekyll-333333?style=flat&logo=jekyll)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 
--   💬 Ask me about **wsl, bots, linux, server, mikrotik**.
+- #### ⚡ Database
 
--   📫 How to reach me **rescenic@svk.jp**.
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+  ![Meilisearch](https://img.shields.io/badge/-Meilisearch-333333?style=flat&logo=meilisearch)
+  ![Algolia](https://img.shields.io/badge/-Algolia-333333?style=flat&logo=algolia)
+  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
+  ![Amazon DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-333333?style=flat&logo=amazon-dynamodb)
+  ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-333333?style=flat&logo=amazon-rds)
 
--   📄 Know about my experiences **[https://git.io/rescenic](https://git.io/rescenic).**
+- #### ☁ Cloud Infrastructures & Virtualization
 
--   ⚡ Fun fact **I am a philosophy of my life, being prey by black hole in my soul, saved by your presence.**
+  ![Alibaba](https://img.shields.io/badge/-Alibaba-333333?style=flat&logo=google-cloud)
+  ![Nevacloud](https://img.shields.io/badge/-Nevacloud-333333?style=flat&logo=google-cloud)
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+  ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazon-aws)
+  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
+  ![Distro WSL](https://img.shields.io/badge/-Distro%20WSL-333333?style=flat&logo=linux)
+  ![Podman](https://img.shields.io/badge/-Podman-333333?style=flat&logo=podman)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+  ![Vagrant](https://img.shields.io/badge/-Vagrant-333333?style=flat&logo=vagrant)
+  ![Proxmox](https://img.shields.io/badge/-Proxmox-333333?style=flat&logo=proxmox)
+  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)
+  ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
+  ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
+  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
 
-### **~:> My Latest Blogs Posts**
+- #### 👨‍💻 Networking
+
+  ![RouterOS](https://img.shields.io/badge/-MikroTik-333333?style=flat&logo=mikrotik)
+  ![OpenWrt](https://img.shields.io/badge/-OpenWrt-333333?style=flat&logo=openwrt)
+  ![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=cisco)
+
+- #### 💻 Workstation
+
+  ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat&logo=windows-terminal)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=PowerShell)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Shell)
+  ![ZSH](https://img.shields.io/badge/-ZSH-333333?style=flat&logo=ZSH)
+  ![Git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android)
+  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
+  ![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)
+  ![WhatsApp](https://img.shields.io/badge/-WhatsApp-333333?style=flat&logo=whatsapp)
+  ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)
+
+- #### ❤ Funding
+
+  <a href="https://paypal.me/rescenic" target="_blank">
+    <img src="https://img.shields.io/badge/-paypal.me/rescenic-333333?style=flat&logo=paypal" alt="paypal.me/rescenic">
+  </a>
+  <a href="https://ko-fi.com/rescenic" target="_blank">
+    <img src="https://img.shields.io/badge/-ko--fi.com%2Frescenic-333333?style=flat&logo=kofi" alt="ko-fi.com/rescenic">
+  </a>
+  <a href="https://github.com/sponsors/rescenic" target="_blank">
+    <img src="https://img.shields.io/badge/-github.com/sponsors/rescenic-333333?style=flat&logo=github-sponsors" alt="GitHub Sponsors">
+  </a>
+
+
+### **~:> Certifications**
+
+- #### Alibaba Cloud Certified Developer
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/alibaba_cloud_certified_developer.jpg" width="600" alt="Muhammad Ridwan Hakim - Alibaba Cloud Certified Developer">
+  </div>
+
+### **~:> Latest Blogs Posts**
 
 <!-- BLOG-POST-LIST:START -->
+
+- [Portfolio](https://rescenic.my.id/portfolio)
 - [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
 <!-- BLOG-POST-LIST:END -->
 
-### **~:> My Latest Youtube Videos**
+### **~:> Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
+
 - [Belajar Simulasi Jaringan MikroTik di GNS3 VirtualBox LENGKAP FULL](https://www.youtube.com/watch?v=Ewft2sTVQzo)
 <!-- YOUTUBE:END -->
 
 ### **~:> Connect with me**
 
-<p align="left">
-<a href="https://codepen.io/rescenic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rescenic" height="20" width="20" /></a>
-<a href="https://dev.to/rescenic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rescenic" height="20" width="20" /></a>
-<a href="https://twitter.com/rescenic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rescenic" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/muhridwanhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhridwanhakim" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/9960019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9960019" height="20" width="20" /></a>
-<a href="https://fb.com/rescenic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rescenic" height="20" width="20" /></a>
-<a href="https://instagram.com/rescen.ic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rescen.ic" height="20" width="20" /></a>
-<a href="https://medium.com/@rescenic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rescenic" height="20" width="20" /></a>
-<a href="https://www.youtube.com/c/rescenic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rescenic" height="20" width="20" /></a>
-</p>
+- #### Email: [rescenic@svk.jp](mailto:rescenic@svk.jp), [rescenin@gmail.com](mailto:rescenin@gmail.com)
+- #### LinkedIn: <a href="https://linkedin.com/in/muhridwanhakim" target="_blank">https://linkedin.com/in/muhridwanhakim</a>
 
-### **~:> Languages and Tools**
+<h5 align="center">©️ rescenic 2024</h5>
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="20" width="20"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="20" width="20"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="20" width="20"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="20" width="20"/> </a> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" height="20" width="20"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="20" width="20"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="20" width="20"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="20" width="20"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="20" width="20"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" height="20" width="20"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" height="20" width="20"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="20" width="20"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="20" width="20"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="20" width="20"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="20" width="20"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="20" width="20"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="20" width="20"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="20" width="20"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="20" width="20"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="20" width="20"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" height="20" width="20"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="20" width="20"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="20" width="20"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" height="20" width="20"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="20" width="20"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="20" width="20"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="20" width="20"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="20" width="20"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" height="20" width="20"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="20" width="20"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="20" width="20"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="20" width="20"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="20" width="20"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="20" width="20"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="20" width="20"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="20" width="20"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="20" width="20"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="20" width="20"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="20" width="20"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="20" width="20"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" height="20" width="20"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20" width="20"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" height="20" width="20"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="20" width="20"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="20" width="20"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="20" width="20"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" height="20" width="20"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" height="20" width="20"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="20" width="20"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="20" width="20"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" height="20" width="20"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="20" width="20"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" height="20" width="20"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" height="20" width="20"/> </a> </p>
-
-<h5 align="center">©️ rescenic 2023</h5>
-
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</a>
