@@ -45,32 +45,38 @@ permalink: /about/
   ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-333333?style=flat&logo=google%20analytics)
   ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
   ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
+  ![Logstash](https://img.shields.io/badge/-Logstash-333333?style=flat&logo=logstash)
   ![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana)
   ![WakaTime](https://img.shields.io/badge/-WakaTime-333333?style=flat&logo=wakatime)
 
 - #### 🚀 Frameworks & Libraries
 
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=spring)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
   ![Jekyll](https://img.shields.io/badge/-Jekyll-333333?style=flat&logo=jekyll)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 
-- #### ⚡ Database
+- #### ⚡ Databases
 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
@@ -80,9 +86,18 @@ permalink: /about/
   ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
   ![Meilisearch](https://img.shields.io/badge/-Meilisearch-333333?style=flat&logo=meilisearch)
   ![Algolia](https://img.shields.io/badge/-Algolia-333333?style=flat&logo=algolia)
-  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
   ![Amazon DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-333333?style=flat&logo=amazon-dynamodb)
   ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-333333?style=flat&logo=amazon-rds)
+
+- #### 🆅 Source Control Management
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=subversion)
+  ![Mercurial](https://img.shields.io/badge/-Mercurial-333333?style=flat&logo=mercurial)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Gitea](https://img.shields.io/badge/-Gitea-333333?style=flat&logo=gitea)
 
 - #### ☁ Cloud Infrastructures & Virtualization
 
@@ -115,8 +130,6 @@ permalink: /about/
   ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=PowerShell)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Shell)
   ![ZSH](https://img.shields.io/badge/-ZSH-333333?style=flat&logo=ZSH)
-  ![Git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android)
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
