@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <h1 align="center">Hi 👋, I'm Muhammad Ridwan Hakim</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h3 align="center">DevOps Engineer, Network Administrator, System Administrator, Full Stack Developer, Software Translator, Industrial Engineer and IT Project Manager.</h3>
 <h4 align="center">Translator of SumatraPDF, Total Commander, FeedDemon, Athan, Listary, RapidEE, AllMyNotes Organizer, CintaNotes, DropIt, Popcorn Time, FocusWriter, Disqus, AdBlock, etc.</h4>
 
 <p align='center'>
@@ -55,7 +55,7 @@ permalink: /about/
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
+  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
@@ -88,6 +88,9 @@ permalink: /about/
   ![Algolia](https://img.shields.io/badge/-Algolia-333333?style=flat&logo=algolia)
   ![Amazon DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-333333?style=flat&logo=amazon-dynamodb)
   ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-333333?style=flat&logo=amazon-rds)
+  ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-333333?style=flat&logo=excel)
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+  ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
 
 - #### 🆅 Source Control Management
 
@@ -110,6 +113,8 @@ permalink: /about/
   ![Podman](https://img.shields.io/badge/-Podman-333333?style=flat&logo=podman)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+  ![Helm](https://img.shields.io/badge/-Helm-333333?style=flat&logo=helm)
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   ![Vagrant](https://img.shields.io/badge/-Vagrant-333333?style=flat&logo=vagrant)
   ![Proxmox](https://img.shields.io/badge/-Proxmox-333333?style=flat&logo=proxmox)
@@ -117,6 +122,23 @@ permalink: /about/
   ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
   ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+
+- #### 🔐 Cyber Security
+
+  ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333333?style=flat&logo=burpsuite)
+  ![OWASP Dependency Check](https://img.shields.io/badge/-OWASP%20Dependency%20Check-333333?style=flat&logo=owasp)
+  ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-333333?style=flat&logo=owasp)
+  ![Docker Scout](https://img.shields.io/badge/-Docker%20Scout-333333?style=flat&logo=docker)
+  ![TruffleHog](https://img.shields.io/badge/-TruffleHog-333333?style=flat&logo=trufflehog)
+  ![SpotBugs](https://img.shields.io/badge/-SpotBugs-333333?style=flat&logo=spotbugs)
+  ![SonarQube](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqube)
+  ![DefectDojo](https://img.shields.io/badge/-DefectDojo-333333?style=flat&logo=defectdojo)
+
+- #### ⚡ QA Testing & Automation
+
+  ![Katalon](https://img.shields.io/badge/-Katalon-333333?style=flat&logo=katalon)
+  ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 - #### 👨‍💻 Networking
 
@@ -136,6 +158,36 @@ permalink: /about/
   ![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)
   ![WhatsApp](https://img.shields.io/badge/-WhatsApp-333333?style=flat&logo=whatsapp)
   ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)
+
+- #### 💿 Operating Systems
+
+  ![OS](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+  ![OS](https://img.shields.io/badge/-Windows%20Server-333333?style=flat&logo=windows-server)
+  ![OS](https://img.shields.io/badge/-Cygwin-333333?style=flat&logo=cygwin)
+  ![OS](https://img.shields.io/badge/-MSYS2-333333?style=flat&logo=MSYS2)
+  ![OS](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kalilinux)
+  ![OS](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
+  ![OS](https://img.shields.io/badge/-Devuan-333333?style=flat&logo=devuan)
+  ![OS](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![OS](https://img.shields.io/badge/-Ubuntu%20Server-333333?style=flat&logo=ubuntu)
+  ![OS](https://img.shields.io/badge/-RHEL-333333?style=flat&logo=redhat)
+  ![OS](https://img.shields.io/badge/-Fedora-333333?style=flat&logo=fedora)
+  ![OS](https://img.shields.io/badge/-CentOS-333333?style=flat&logo=centos)
+  ![OS](https://img.shields.io/badge/-Rocky%20Linux-333333?style=flat&logo=rockylinux)
+  ![OS](https://img.shields.io/badge/-Alma%20Linux-333333?style=flat&logo=almalinux)
+  ![OS](https://img.shields.io/badge/-Arch-333333?style=flat&logo=archlinux)
+  ![OS](https://img.shields.io/badge/-Artix-333333?style=flat&logo=artixlinux)
+  ![OS](https://img.shields.io/badge/-Manjaro-333333?style=flat&logo=manjaro)
+  ![OS](https://img.shields.io/badge/-OpenSUSE-333333?style=flat&logo=opensuse)
+  ![OS](https://img.shields.io/badge/-SLES-333333?style=flat&logo=suse)
+  ![OS](https://img.shields.io/badge/-Alpine-333333?style=flat&logo=alpinelinux)
+  ![OS](https://img.shields.io/badge/-Oracle%20Linux-333333?style=flat&logo=oracle)
+  ![OS](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint)
+  ![OS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=apple)
+
+- #### 👨‍🏭 Industrial Engineering
+
+  **Business Intelligence, Data Mining, Project Management, Organizational Design, Human Capital Management, Business Process Engineering, Product & Service Design, Product & Service Improvement, Work Design and Ergonomics, Facility Layout Design, Quality Control System, Industrial Statistics, Industrial Psychology, System Modelling, Operational Research, Marketing Research, Marketing Strategy, Integrated Marketing Communication, Customer Relationship Management, Information System Design, Procurement, Supply Chain Management, Production Planning & Inventory Control**
 
 - #### ❤ Funding
 
