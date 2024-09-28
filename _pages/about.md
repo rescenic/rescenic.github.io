@@ -201,14 +201,13 @@ permalink: /about/
     <img src="https://img.shields.io/badge/-github.com/sponsors/rescenic-333333?style=flat&logo=github-sponsors" alt="GitHub Sponsors">
   </a>
 
-
 ### **~:> Certifications**
 
 - #### Alibaba Cloud Certified Developer
   <div align="center">
     <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/alibaba_cloud_certified_developer.jpg" width="600" alt="Muhammad Ridwan Hakim - Alibaba Cloud Certified Developer">
   </div>
-  #### Certified Professional Information Technology Auditor
+- #### Certified Professional Information Technology Auditor
   <div align="center">
     <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/cpita_mrh_2024.png" width="600" alt="Muhammad Ridwan Hakim - Certified Professional IT Auditor">
   </div>
