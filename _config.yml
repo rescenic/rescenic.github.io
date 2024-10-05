@@ -21,7 +21,7 @@
 title: "Rescenic's Journal"
 email: rescenin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Übung macht den Meister - Practice makes perfect
+  Übung macht den Meister - Practice makes perfect
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rescenic.my.id" # the base hostname & protocol for your site, e.g. http://example.com
 repository: rescenic/rescenic.github.io
@@ -34,9 +34,9 @@ google_analytics:
 comments: true
 disqus: purelog-jekyll
 
-author: Muhammad Ridwan Hakim, S.T.
+author: Muhammad Ridwan Hakim, S.T., CPITA
 author_bio: >-
-    I am a philosophy of my life, being prey by black hole in my soul, saved by your presence.
+  I am a philosophy of my life, being prey by black hole in my soul, saved by your presence.
 author_pic: /assets/rescenic-rounded.png
 paginate: 4
 paginate_path: "/:num/"
@@ -44,53 +44,53 @@ paginate_path: "/:num/"
 markdown: kramdown
 
 kramdown:
-    input: GFM
-    syntax_highlighter: rouge
+  input: GFM
+  syntax_highlighter: rouge
 
 # Build settings
 theme: null
 plugins:
-    - jekyll-feed
-    - jekyll-seo-tag
-    - jekyll-paginate
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-paginate
 permalink: /:title
 
 defaults:
-    - scope:
-          path: "" # an empty string here means all files in the project
-          type: "posts" # previously `post` in Jekyll 2.2.
-      values:
-          layout: "post"
-          author: Muhammad Ridwan Hakim, S.T.
-          avatar: /assets/rescenic-rounded.png
-    - scope:
-          path: ""
-          type: notes
-      values:
-          layout: post
-          content-type: notes
-    - scope:
-          path: ""
-          type: journals
-      values:
-          layout: journal-entry
-          content-type: journals
+- scope:
+    path: "" # an empty string here means all files in the project
+    type: "posts" # previously `post` in Jekyll 2.2.
+  values:
+    layout: "post"
+    author: Muhammad Ridwan Hakim, S.T., CPITA
+    avatar: /assets/rescenic-rounded.png
+- scope:
+    path: ""
+    type: notes
+  values:
+    layout: post
+    content-type: notes
+- scope:
+    path: ""
+    type: journals
+  values:
+    layout: journal-entry
+    content-type: journals
 
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.
 collections:
-    pages:
-        output: true
-        permalink: /:title
-    notes:
-        output: true
-        permalink: /notes/:title
-    journals:
-        output: true
-        permalink: /journals/:title
+  pages:
+    output: true
+    permalink: /:title
+  notes:
+    output: true
+    permalink: /notes/:title
+  journals:
+    output: true
+    permalink: /journals/:title
 
 # Exclude from processing.
 exclude:
-    - ".jekyll-cache"
-    - "Gemfile"
-    - "Gemfile.lock"
+- ".jekyll-cache"
+- "Gemfile"
+- "Gemfile.lock"
