@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About Muhammad Ridwan Hakim, S.T., CPITA
+title: About Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP
 permalink: /about/
 ---
 
-<h1 align="center">Hi 👋, I'm Muhammad Ridwan Hakim, S.T., CPITA</h1>
-<h3 align="center">Certified Professional IT Auditor, DevOps Engineer, Network Administrator, System Administrator, Full Stack Developer, Software Translator, Industrial Engineer and IT Project Manager.</h3>
-<h4 align="center">Translator of SumatraPDF, Total Commander, FeedDemon, Athan, Listary, RapidEE, AllMyNotes Organizer, CintaNotes, DropIt, Popcorn Time, FocusWriter, Disqus, AdBlock, etc.</h4>
+<h1 align="center">Hi 👋, I'm Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP</h1>
+<h3 align="center">DevOps Engineer, Industrial Engineer, Network Administrator, System Administrator, Full Stack Developer, Software Translator, Certified Professional IT Auditor and IT Project Manager.</h3>
+<h4 align="center">Translator of SumatraPDF, Total Commander, FeedDemon, Athan, Listary, RapidEE, AllMyNotes Organizer, CintaNotes, DropIt, Popcorn Time, FocusWriter, Disqus, AdBlock</h4>
 
 <p align='center'>
   <a href="https://github.com/sponsors/rescenic" target="_blank">
@@ -120,6 +120,7 @@ permalink: /about/
   ![Proxmox](https://img.shields.io/badge/-Proxmox-333333?style=flat&logo=proxmox)
   ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)
   ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
+  ![Hyper-V](https://img.shields.io/badge/-HyperV-333333?style=flat&logo=hyperv)
   ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
 
@@ -136,9 +137,10 @@ permalink: /about/
 
 - #### ⚡ QA Testing & Automation
 
-  ![Katalon](https://img.shields.io/badge/-Katalon-333333?style=flat&logo=katalon)
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Katalon](https://img.shields.io/badge/-Katalon-333333?style=flat&logo=katalon)
 
 - #### 👨‍💻 Networking
 
@@ -211,11 +213,15 @@ permalink: /about/
   <div align="center">
     <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/cpita_mrh_2024.png" width="600" alt="Muhammad Ridwan Hakim - Certified Professional IT Auditor">
   </div>
+- #### IT Project Management Certified Professional
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/itpmcp_mrh_2024.png" width="600" alt="Muhammad Ridwan Hakim - IT Project Management Certified Professional">
+  </div>
 
 ### **~:> Latest Blogs Posts**
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Best PowerShell Dev Environment on Windows](https://dev.to/rescenic/best-powershell-dev-environment-on-windows-4kg9)
 - [Portfolio](https://rescenic.my.id/portfolio)
 - [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
 <!-- BLOG-POST-LIST:END -->
@@ -223,7 +229,7 @@ permalink: /about/
 ### **~:> Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
-
+- [Final Project Golang Sanbercode Batch 60   Klinik Gumuruh API](https://www.youtube.com/watch?v=NfAYUJv2D5U)
 - [Belajar Simulasi Jaringan MikroTik di GNS3 VirtualBox LENGKAP FULL](https://www.youtube.com/watch?v=Ewft2sTVQzo)
 <!-- YOUTUBE:END -->
 
