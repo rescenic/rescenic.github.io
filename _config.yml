@@ -34,7 +34,7 @@ google_analytics:
 comments: true
 disqus: purelog-jekyll
 
-author: Muhammad Ridwan Hakim, S.T., CPITA
+author: Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP
 author_bio: >-
   I am a philosophy of my life, being prey by black hole in my soul, saved by your presence.
 author_pic: /assets/rescenic-rounded.png
@@ -61,7 +61,7 @@ defaults:
     type: "posts" # previously `post` in Jekyll 2.2.
   values:
     layout: "post"
-    author: Muhammad Ridwan Hakim, S.T., CPITA
+    author: Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP
     avatar: /assets/rescenic-rounded.png
 - scope:
     path: ""
