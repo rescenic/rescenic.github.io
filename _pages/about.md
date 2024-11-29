@@ -1,9 +1,3 @@
----
-layout: page
-title: About Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP
-permalink: /about/
----
-
 <h1 align="center">Hi 👋, I'm Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP</h1>
 <h3 align="center">DevOps Engineer, Industrial Engineer, Network Administrator, System Administrator, Full Stack Developer, Software Translator, Certified Professional IT Auditor and IT Project Manager.</h3>
 <h4 align="center">Translator of SumatraPDF, Total Commander, FeedDemon, Athan, Listary, RapidEE, AllMyNotes Organizer, CintaNotes, DropIt, Popcorn Time, FocusWriter, Disqus, AdBlock</h4>
@@ -18,7 +12,7 @@ permalink: /about/
 </p>
 
 <div align="center">
-<a href="https://app.daily.dev/rescenic" target="_blank"><img src="https://raw.githubusercontent.com/rescenic/rescenic/master/devcard.png" width="600" alt="Muhammad Ridwan Hakim's Dev Card"/></a>
+  <a href="https://app.daily.dev/rescenic" target="_blank"><img src="https://raw.githubusercontent.com/rescenic/rescenic/master/devcard.png" width="600" alt="Muhammad Ridwan Hakim's Dev Card"/></a>
 </div>
 
 ### **~:> GitHub Stats**
@@ -27,6 +21,9 @@ permalink: /about/
   <a href="https://github.com/rescenic" target="_blank">
     <p align="center">
       <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/github-metrics.svg" alt="Metrics" width="400">
+    </p>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/wakatime.svg" alt="Metrics" width="400">
     </p>
     <div style="display: flex; justify-content: center; align-items: center;">
       <img height="160em" src="https://rescenic-stats.vercel.app/api?username=rescenic&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -79,7 +76,7 @@ permalink: /about/
 - #### ⚡ Databases
 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
@@ -221,6 +218,7 @@ permalink: /about/
 ### **~:> Latest Blogs Posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Best PowerShell Dev Environment on Windows](https://dev.to/rescenic/best-powershell-dev-environment-on-windows-4kg9)
 - [Portfolio](https://rescenic.my.id/portfolio)
 - [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
@@ -229,7 +227,8 @@ permalink: /about/
 ### **~:> Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
-- [Final Project Golang Sanbercode Batch 60   Klinik Gumuruh API](https://www.youtube.com/watch?v=NfAYUJv2D5U)
+
+- [Final Project Golang Sanbercode Batch 60 Klinik Gumuruh API](https://www.youtube.com/watch?v=NfAYUJv2D5U)
 - [Belajar Simulasi Jaringan MikroTik di GNS3 VirtualBox LENGKAP FULL](https://www.youtube.com/watch?v=Ewft2sTVQzo)
 <!-- YOUTUBE:END -->
 
