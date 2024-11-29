@@ -1,3 +1,9 @@
+---
+layout: page
+title: About Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP
+permalink: /about/
+---
+
 <h1 align="center">Hi 👋, I'm Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP</h1>
 <h3 align="center">DevOps Engineer, Industrial Engineer, Network Administrator, System Administrator, Full Stack Developer, Software Translator, Certified Professional IT Auditor and IT Project Manager.</h3>
 <h4 align="center">Translator of SumatraPDF, Total Commander, FeedDemon, Athan, Listary, RapidEE, AllMyNotes Organizer, CintaNotes, DropIt, Popcorn Time, FocusWriter, Disqus, AdBlock</h4>
