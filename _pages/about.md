@@ -62,6 +62,7 @@ permalink: /about/
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
@@ -193,6 +194,10 @@ permalink: /about/
 - #### 👨‍🏭 Industrial Engineering
 
   **Business Intelligence, Data Mining, Project Management, Organizational Design, Human Capital Management, Business Process Engineering, Product & Service Design, Product & Service Improvement, Work Design and Ergonomics, Facility Layout Design, Quality Control System, Industrial Statistics, Industrial Psychology, System Modelling, Operational Research, Marketing Research, Marketing Strategy, Integrated Marketing Communication, Customer Relationship Management, Information System Design, Procurement, Supply Chain Management, Production Planning & Inventory Control**
+
+- #### ✨ Standards & Frameworks
+
+  **ISO 9001, ISO 14001, ISO 45001, ISO 22000, COBIT, TOGAF, ITAF, COBIT 5, PMBOK, BABOK, PMP, ITIL, CHFI, CEH, NIST, CISA, CISM, CISSP, CRISC**
 
 - #### ❤ Funding
 

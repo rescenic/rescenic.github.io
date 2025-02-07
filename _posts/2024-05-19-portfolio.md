@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-date: 2024-05-19
+date: 2025-02-07
 author: Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP
 layout: post
 tags:
@@ -23,6 +23,8 @@ category: Essays
 ### Pustaka Jaya (2023) : [https://pustakajaya.com](https://pustakajaya.com){:target="_blank"}
 
 ### Islamika (2024) : [https://islamika.co](https://islamika.co){:target="_blank"}
+
+### Gapura (2025) : [https://gapura.org](https://gapura.org){:target="_blank"}
 
 ## ❤ Websites
 
