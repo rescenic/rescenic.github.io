@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <h1 align="center">Hi 👋, I'm Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP</h1>
-<h3 align="center">DevOps Engineer, Industrial Engineer, Network Administrator, System Administrator, Full Stack Developer, Software Translator, Certified Professional IT Auditor and IT Project Manager.</h3>
+<h3 align="center">AI Engineer, DevOps Engineer, Industrial Engineer, Network Administrator, System Administrator, Cyber Security Analyst, Full Stack Developer, Software Translator, Certified Professional IT Auditor and IT Project Manager.</h3>
 <h4 align="center">Translator of SumatraPDF, Total Commander, FeedDemon, Athan, Listary, RapidEE, AllMyNotes Organizer, CintaNotes, DropIt, Popcorn Time, FocusWriter, Disqus, AdBlock</h4>
 
 <p align='center'>
@@ -45,6 +45,7 @@ permalink: /about/
 
 - #### 📊 Analytics & Metrics
 
+  ![Awstats](https://img.shields.io/badge/-Awstats-333333?style=flat&logo=socialblade)
   ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-333333?style=flat&logo=google%20analytics)
   ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
   ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
@@ -138,6 +139,7 @@ permalink: /about/
   ![SpotBugs](https://img.shields.io/badge/-SpotBugs-333333?style=flat&logo=spotbugs)
   ![SonarQube](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqube)
   ![DefectDojo](https://img.shields.io/badge/-DefectDojo-333333?style=flat&logo=defectdojo)
+  ![OSINT Framework](https://img.shields.io/badge/-OSINT%20Framework-333333?style=flat&logo=osint)
 
 - #### ⚡ QA Testing & Automation
 
