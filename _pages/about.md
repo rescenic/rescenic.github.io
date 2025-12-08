@@ -4,40 +4,23 @@ title: About Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP
 permalink: /about/
 ---
 
-<h1 align="center">Hi 👋, I'm Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP</h1>
-<h3 align="center">AI Engineer, DevOps Engineer, Industrial Engineer, Network Administrator, System Administrator, Cyber Security Analyst, Full Stack Developer, Software Translator, Certified Professional IT Auditor and IT Project Manager.</h3>
-<h4 align="center">Translator of SumatraPDF, Total Commander, FeedDemon, Athan, Listary, RapidEE, AllMyNotes Organizer, CintaNotes, DropIt, Popcorn Time, FocusWriter, Disqus, AdBlock</h4>
+## Hi 👋, I'm Muhammad Ridwan Hakim, S.T., CPITA, ITPMCP
 
-<p align='center'>
-  <a href="https://github.com/sponsors/rescenic" target="_blank">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=rescenic&label=Profile%20views&color=0e75b6&style=flat" alt="rescenic" />
-  </a>
-</p>
+## AI Engineer, DevOps Engineer, Industrial Engineer, Software Engineer, Cyber Security Analyst, Network & System Administrator, IT Auditor, IT Project Manager, Software Translator, Information Security Associate
 
-<div align="center">
-  <a href="https://app.daily.dev/rescenic" target="_blank"><img src="https://raw.githubusercontent.com/rescenic/rescenic/master/devcard.png" width="600" alt="Muhammad Ridwan Hakim's Dev Card"/></a>
-</div>
+### Translator of SumatraPDF, Total Commander, FeedDemon, Athan, Listary, RapidEE, AllMyNotes Organizer, CintaNotes, DropIt, Popcorn Time, FocusWriter, Disqus, AdBlock
 
-### **~:> GitHub Stats**
+[![Sponsor badge](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/rescenic)  ![Profile views](https://komarev.com/ghpvc/?username=rescenic&label=Profile%20views&color=0e75b6&style=flat "Profile views")
 
-<div align="center">
-  <a href="https://github.com/rescenic" target="_blank">
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/github-metrics.svg" alt="Metrics" width="400">
-    </p>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/wakatime.svg" alt="Metrics" width="400">
-    </p>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img height="160em" src="https://rescenic-stats.vercel.app/api?username=rescenic&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-      <img height="160em" src="https://rescenic-stats.vercel.app/api/top-langs/?username=rescenic&layout=compact&langs_count=7&theme=gruvbox"/>
-    </div>
-    <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=rescenic&theme=gruvbox"/>
-  </a>
-</div>
+[![Dev Card](https://raw.githubusercontent.com/rescenic/rescenic/master/devcard.png "Muhammad Ridwan Hakim's Dev Card")](https://app.daily.dev/rescenic)
+
+## GitHub Stats
+
+[![GitHub metrics](https://raw.githubusercontent.com/rescenic/rescenic/master/github-metrics.svg "Metrics")](https://github.com/rescenic)
+
+[![WakaTime](https://raw.githubusercontent.com/rescenic/rescenic/master/wakatime.svg "WakaTime")](https://github.com/rescenic)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rescenic&theme=gruvbox)
 
 ---
 
@@ -153,6 +136,8 @@ permalink: /about/
   ![RouterOS](https://img.shields.io/badge/-MikroTik-333333?style=flat&logo=mikrotik)
   ![OpenWrt](https://img.shields.io/badge/-OpenWrt-333333?style=flat&logo=openwrt)
   ![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=cisco)
+  ![Ruijie](https://img.shields.io/badge/-Ruijie-333333?style=flat&logo=ruijie)
+  ![Omada](https://img.shields.io/badge/-Omada-333333?style=flat&logo=tplink)
 
 - #### 💻 Workstation
 
@@ -169,8 +154,8 @@ permalink: /about/
 
 - #### 💿 Operating Systems
 
-  ![OS](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-  ![OS](https://img.shields.io/badge/-Windows%20Server-333333?style=flat&logo=windows-server)
+  ![OS](https://img.shields.io/badge/-Windows-333333?style=flat&logo=microsoft)
+  ![OS](https://img.shields.io/badge/-Windows%20Server-333333?style=flat&logo=microsoft)
   ![OS](https://img.shields.io/badge/-Cygwin-333333?style=flat&logo=cygwin)
   ![OS](https://img.shields.io/badge/-MSYS2-333333?style=flat&logo=MSYS2)
   ![OS](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kalilinux)
@@ -199,59 +184,55 @@ permalink: /about/
 
 - #### ✨ Standards & Frameworks
 
-  **ISO 9001, ISO 14001, ISO 45001, ISO 22000, COBIT, TOGAF, ITAF, COBIT 5, PMBOK, BABOK, PMP, ITIL, CHFI, CEH, NIST, CISA, CISM, CISSP, CRISC**
+  **ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, ISO 22000:2018, ISO 27001:2022, COBIT, TOGAF, ITAF, COBIT 5, PMBOK, BABOK, PMP, ITIL, CHFI, CEH, NIST, CISA, CISM, CISSP, CRISC**
 
 - #### ❤ Funding
 
-  <a href="https://paypal.me/rescenic" target="_blank">
-    <img src="https://img.shields.io/badge/-paypal.me/rescenic-333333?style=flat&logo=paypal" alt="paypal.me/rescenic">
-  </a>
-  <a href="https://ko-fi.com/rescenic" target="_blank">
-    <img src="https://img.shields.io/badge/-ko--fi.com%2Frescenic-333333?style=flat&logo=kofi" alt="ko-fi.com/rescenic">
-  </a>
-  <a href="https://github.com/sponsors/rescenic" target="_blank">
-    <img src="https://img.shields.io/badge/-github.com/sponsors/rescenic-333333?style=flat&logo=github-sponsors" alt="GitHub Sponsors">
-  </a>
+[![paypal.me/rescenic](https://img.shields.io/badge/-paypal.me/rescenic-333333?style=flat&logo=paypal)](https://paypal.me/rescenic) [![ko-fi](https://img.shields.io/badge/-ko--fi.com%2Frescenic-333333?style=flat&logo=kofi)](https://ko-fi.com/rescenic) [![GitHub Sponsors](https://img.shields.io/badge/-github.com/sponsors/rescenic-333333?style=flat&logo=github-sponsors)](https://github.com/sponsors/rescenic)
 
 ### **~:> Certifications**
 
-- #### Alibaba Cloud Certified Developer
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/alibaba_cloud_certified_developer.jpg" width="600" alt="Muhammad Ridwan Hakim - Alibaba Cloud Certified Developer">
-  </div>
-- #### Certified Professional Information Technology Auditor
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/cpita_mrh_2024.png" width="600" alt="Muhammad Ridwan Hakim - Certified Professional IT Auditor">
-  </div>
-- #### IT Project Management Certified Professional
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/itpmcp_mrh_2024.png" width="600" alt="Muhammad Ridwan Hakim - IT Project Management Certified Professional">
-  </div>
+#### Alibaba Cloud Certified Developer
+
+![Muhammad Ridwan Hakim - Alibaba Cloud Certified Developer](https://raw.githubusercontent.com/rescenic/rescenic/master/certs/alibaba_cloud_certified_developer.jpg)
+
+#### Certified Professional Information Technology Auditor
+
+![Muhammad Ridwan Hakim - Certified Professional IT Auditor](https://raw.githubusercontent.com/rescenic/rescenic/master/certs/cpita_mrh_2024.png)
+
+#### IT Project Management Certified Professional
+
+![Muhammad Ridwan Hakim - IT Project Management Certified Professional](https://raw.githubusercontent.com/rescenic/rescenic/master/certs/itpmcp_mrh_2024.png)
 
 ### **~:> Latest Blogs Posts**
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Best PowerShell Dev Environment on Windows](https://dev.to/rescenic/best-powershell-dev-environment-on-windows-4kg9)
 - [Portfolio](https://rescenic.my.id/portfolio)
+- [Best PowerShell Dev Environment on Windows](https://dev.to/rescenic/best-powershell-dev-environment-on-windows-4kg9)
 - [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
 <!-- BLOG-POST-LIST:END -->
 
 ### **~:> Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
-
-- [Final Project Golang Sanbercode Batch 60 Klinik Gumuruh API](https://www.youtube.com/watch?v=NfAYUJv2D5U)
+- [UTS - English - Group 7 - Fine Dining Restaurant Conversation - Version 2](https://www.youtube.com/watch?v=315iDuFyCBU)
+- [Fix GNS3 Version 3 No Internet Connection - Solve GNS3 Version 3 Can&#39;t Ping Google - 2025](https://www.youtube.com/watch?v=q4A2w1KPfK8)
+- [Tugas Pelatihan C++ Microcontroller Himatika UNSIA x Kelas Robot - Muhammad Ridwan Hakim](https://www.youtube.com/watch?v=zc-8xEhWPQw)
+- [Final Project - Laravel Bootcamp Sanbercode - Kelompok 9](https://www.youtube.com/watch?v=-EINP9D_x6A)
+- [Final Project Golang Sanbercode Batch 60   Klinik Gumuruh API](https://www.youtube.com/watch?v=NfAYUJv2D5U)
 - [Belajar Simulasi Jaringan MikroTik di GNS3 VirtualBox LENGKAP FULL](https://www.youtube.com/watch?v=Ewft2sTVQzo)
+- [Final Project - Flutter Bootcamp](https://www.youtube.com/watch?v=cyHmFcDB8HM)
+- [Hero Siege - Best Marksman](https://www.youtube.com/watch?v=nLaZ_cjnpL4)
+- [Hero Siege - Best Nomad](https://www.youtube.com/watch?v=u2JJLqgPqDs)
+- [Saori Atsumi - Mou Sukoshi](https://www.youtube.com/watch?v=l97Mg06P1YQ)
 <!-- YOUTUBE:END -->
 
 ### **~:> Connect with me**
 
 - #### Email: [rescenic@svk.jp](mailto:rescenic@svk.jp), [rescenin@gmail.com](mailto:rescenin@gmail.com)
-- #### LinkedIn: <a href="https://linkedin.com/in/muhridwanhakim" target="_blank">https://linkedin.com/in/muhridwanhakim</a>
 
-<h5 align="center">©️ rescenic 2024</h5>
+- #### LinkedIn: [https://linkedin.com/in/muhridwanhakim](https://linkedin.com/in/muhridwanhakim)
 
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</a>
+##### ©️ rescenic 2025
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)

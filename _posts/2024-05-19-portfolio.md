@@ -8,8 +8,6 @@ tags:
   - History
 category: Essays
 ---
-# Masterpieces
-
 ## ❤ Auto Reply Bot
 
 ### Telegram Bot RS Muhammadiyah Bandung (2021) : [https://t.me/rsmb_id_bot](https://t.me/rsmb_id_bot){:target="_blank"}
